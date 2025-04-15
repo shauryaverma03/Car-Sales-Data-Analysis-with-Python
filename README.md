@@ -121,7 +121,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, feel free to reach out:
 
 - **GitHub**: [shauryaverma03](https://github.com/shauryaverma03)
-- **Email**: [your-email@example.com](mailto:your-email@example.com) _(Replace with your email)_
+- **Email**: [shauryaverma03@gmail.com](mailto:shauryaverma036@gmail.com) 
 
 ---
 
